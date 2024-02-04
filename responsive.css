@@ -1,0 +1,79 @@
+/* /* /* @media screen and (max-width: 1300px){
+    body{
+        justify-content: center;
+    }
+    .container{
+
+        width:90%;
+        margin-right: 30%;
+        
+    }
+    .full-info,.carousel-container,.full-card,
+    .full-img-text,.full-stratigies,.full-product,
+    .full-sec9,.achiev,.full-projects,.full-subs,.full-footer{
+        margin-right: 80%;
+    }
+    
+} */
+/* 
+@media only screen and (max-width: 768px) {   
+    .full-info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .full-info .right-logo {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .full-info .right-logo .main-logo img {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 768px) {  
+    .carousel-container .caption { 
+        padding-top: 150px;
+    }
+
+    .carousel-container .cap-name .cap-para .lock {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .carousel-container .cap-name .cap-para a {
+        padding: 7px 15px;
+    }
+
+    .carousel-container .prev-btn,
+    .carousel-container .next-btn {
+        display: none; 
+    }
+
+    .carousel-container .prev-btn2,
+    .carousel-container .next-btn2 {
+        display: inline-block; 
+    }
+}
+
+
+@media only screen and (max-width: 768px) { 
+    .full-card .box {
+        flex-direction: column; 
+    }
+}
+
+
+
+@media only screen and (min-width: 768px) {  
+    .full-stratigies {
+        flex-direction: row;
+        justify-content: space-between; 
+    }
+
+    .full-text-left,
+    .full-image-right {
+        width: 48%; 
+    }
+}   */
